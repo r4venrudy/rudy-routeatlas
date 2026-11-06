@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Rudy RouteAtlas · Offline BGP route-origin validation</title>
+  <rect width="1200" height="300" rx="18" fill="#0c121a"/>
+  <path d="M2 0v300" stroke="#55e0b6" stroke-width="5"/>
+  <g fill="#55e0b6" font-family="monospace" font-size="15" letter-spacing="3">
+    <text x="55" y="54">RUDY SYSTEMS / ROUTING ASSURANCE</text>
+    <text x="55" y="260">C++20 / OFFLINE / DEVELOPER PREVIEW</text>
+  </g>
+  <text x="55" y="125" fill="#edf6ff" font-family="system-ui,sans-serif" font-size="58" font-weight="700">Rudy RouteAtlas</text>
+  <text x="57" y="178" fill="#a7c5dc" font-family="system-ui,sans-serif" font-size="25">Trace authorization changes to affected routes.</text>
+  <path d="M55 222h1090" stroke="#26394b"/>
+  <g fill="#132332" stroke="#2f4c60" stroke-width="2">
+    <path d="m954 94-108 59m108-59 108 59" fill="none"/>
+    <rect x="877" y="66" width="154" height="37" rx="6"/>
+    <rect x="775" y="143" width="142" height="37" rx="6"/>
+    <rect x="991" y="143" width="142" height="37" rx="6"/>
+  </g>
+  <g fill="#55e0b6" font-family="monospace" font-size="13" text-anchor="middle">
+    <text x="954" y="89">VRP SNAPSHOTS</text>
+    <text x="846" y="166">IPv4 PREFIXES</text>
+    <text x="1062" y="166">IPv6 PREFIXES</text>
+  </g>
+</svg>
